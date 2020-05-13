@@ -1,0 +1,11 @@
+﻿  vchmat5.cpp
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(78,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(78,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(80,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(84,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(84,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(86,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(90,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(90,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\vchmat5\vchmat5\vchmat5.cpp(92,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  vchmat5.vcxproj -> C:\Users\Соня\source\repos\vchmat5\Debug\vchmat5.exe
