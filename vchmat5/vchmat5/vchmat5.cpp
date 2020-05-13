@@ -16,7 +16,6 @@ double averageRect(double a, double b, int n)
     double h = (b - a) / n;
     double answ=0;
     double* x = new double[n + 1];
-    int m = 0;
 
     for (int i = 0; i < n + 1; i++)
         x[i] = a+h*i;
@@ -33,7 +32,6 @@ double leftRect(double a, double b, int n)
     double h = (b - a) / n;
     double answ = 0;
     double* x = new double[n + 1];
-    int m = 0;
 
     for (int i = 0; i < n + 1; i++)
         x[i] = a + h * i;
@@ -127,5 +125,7 @@ int main()
             break;
     }
 }
+
+
 
 
