@@ -56,10 +56,9 @@ double newtonCotes(double a, double b,int n)
     for (int i = 0; i < n + 1; i++)
         x[i] = a + h * i;
 
-    for (int j = 0; j < n; j+=4)
+    for (int j = 0; j < n; j += 4)
         for (int i = 0; i < 5; i++)
-            answ += w[i] * function(x[j] + i * h);
-
+                answ += w[i] * function(x[j] + 4 * h * i);
     return c0*h*answ;
 }
 
